@@ -1,0 +1,53 @@
+═══════════════════════════════════════════════════════════
+COMPLETE FILE UPLOAD CHECKLIST FOR VPS
+═══════════════════════════════════════════════════════════
+
+📁 app/ folder:
+  ✓ app/ClientHome.tsx          ← CRITICAL! Must have this!
+  ✓ app/page.tsx
+  ✓ app/layout.tsx
+  ✓ app/globals.css
+  
+  ✓ app/api/discord/authorize/route.ts
+  ✓ app/api/discord/callback/route.ts
+  ✓ app/api/quests/complete/route.ts
+  ✓ app/api/quests/status/route.ts
+  ✓ app/api/wallet/challenge/route.ts
+  ✓ app/api/wallet/verify/route.ts
+
+📁 components/ folder:
+  ✓ components/QuestBoard.tsx
+  ✓ components/WalletButton.tsx
+  ✓ components/WalletProvider.tsx
+
+📁 lib/ folder:
+  ✓ lib/crypto.ts
+  ✓ lib/db.ts
+  ✓ lib/discord.ts
+  ✓ lib/wallet-config.ts
+
+📄 Config files (root directory):
+  ✓ .env.local                 ← MUST have correct URLs!
+  ✓ .gitignore
+  ✓ ecosystem.config.js
+  ✓ next.config.js
+  ✓ package.json
+  ✓ package-lock.json
+  ✓ postcss.config.js
+  ✓ tailwind.config.js
+  ✓ tsconfig.json
+
+═══════════════════════════════════════════════════════════
+TOTAL: 24 FILES + 3 FOLDERS
+═══════════════════════════════════════════════════════════
+
+AFTER UPLOADING, RUN ON VPS:
+cd /var/www/fartwater
+rm -rf node_modules .next data
+npm install
+npm run build
+pm2 delete fartwater
+pm2 start ecosystem.config.js
+pm2 logs fartwater
+
+═══════════════════════════════════════════════════════════

@@ -1,0 +1,2 @@
+# Paste one X post URL per line. Example:
+# https://x.com/6fartwater9/status/TWEET_ID

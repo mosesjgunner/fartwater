@@ -1,0 +1,316 @@
+Heard. Here’s the **ATL Asset Bible**—extra details to turn S1E1 (“Atlanta — Receipts in the Peach State”) into shootable **images, motion, and micro-animations**. It’s written in the same big ATL tone we’re using in STL: **trash-doc VH1 + WorldStar + fake CNBC**. EVERYTHING = **$FRTWTR**. THIS IS **FINANCE**.
+
+---
+
+# FARTWATER S1E1 — ATLANTA
+
+## Real-Time Images & Animation Production Packet
+
+### Global Look (carry across every ATL shot)
+
+* **Color:** carnival sodium + peach neon. Primary hex: `#FF6F61` (Peach Pop), `#1E1E1E` (Asphalt), `#00FFC2` (Fraudulent Mint), `#FFD400` (Funnel-Cake Gold).
+* **LUT vibe:** VHS lift, faded blacks, magenta shift in highlights, halation on speculars (screams 2004 DV).
+* **Type:** Headings in a faux-finance grotesk; ticker in monospaced “calculator” font; lower-thirds have a tiny holo-glitter outline.
+* **On-screen finance bugs (everywhere):**
+
+  * Ticker crawl: “$FRTWTR +420.69% • APR = ALWAYS PAY RULE • SLIPPAGE INDEX: 80% • COUPONS > CASH.”
+  * Corner bug: Mini-ATM icon animates (prints when a joke lands).
+
+---
+
+## MOTION GRAPHICS PACK (drop-in across scenes)
+
+* **Lower-third templates (10):**
+
+  1. “NET WORTH (UNVERIFIED)”
+  2. “PERMIT TYPE: RECEIPT (LAMINATED)”
+  3. “HEADLINER STATUS: SELF-DECLARED”
+  4. “COMMODITY CLASS: GLUTEN (ILLiq)”
+  5. “APR = ALWAYS PAY RULE (LOCAL VARIANT)”
+  6. “EDUTAINMENT: ACCREDITATION PENDING”
+  7. “COLLAB STATUS: IMAGINARY (BOW WOW)”
+  8. “CONSENSUS: VOLUME-BASED (BUSTA)”
+  9. “REDEMPTION RATE: TBD (JA)”
+  10. “CFO: CHAOTIC FINANCIAL OFFICER (PEACHES)”
+* **Receipt overlays:** Four PNGs with perforated edges: “ADMISSION,” “TAX,” “SURCHARGE,” “TRY LATER (NEVER).”
+* **Transitions:**
+
+  * *Receipt Rip* (L-to-R wipe with paper-tear SFX).
+  * *Coupon Clip* (iris shutter with stapler thunk).
+  * *Jumbotron Flicker* (scanline roll + crowd whoop).
+
+---
+
+## CAMERA & LENS KIT
+
+* **Doc Cam:** Shoulder-rig 24–70mm f/2.8 (grit & zoom punch-ins).
+* **Chaos Phone:** iPhone vertical, 30fps, oversharpened (Crystal).
+* **Hero Gimbal:** 24mm prime, low pass moves for “prestige” irony.
+* **Macro Insert:** 90–105mm for ATM receipts, gravy bubbles, coupons.
+
+---
+
+# SCENE MODULES (ATL key sequences with shots + motion + prompts)
+
+---
+
+## SCENE 2 — “THE MIDWAY PITCH” (Part 1)
+
+**Where:** Georgia State Fair, crooked folding table “FartWATER Finance Booth.”
+
+### Shot List (:25 hero cut + pickups)
+
+1. **WS** fair midway; Ferris wheel bokeh; sign duct-taped: “BAR-S HOT DOG HUSTLE — WIN $50 $FRTWTR.”
+
+   * **Overlay:** Ticker crawl begins.
+2. **MCU** Moses taping QR to milk crate (peels off instantly).
+
+   * **Lower-third:** “MOSES — PERMIT TYPE: RECEIPT (LAMINATED).”
+3. **CU** Diamond selling “Premium Proximity Wristbands” (shoelaces + Sharpie). Glitter catches sun.
+4. **CU** Ja thumping ATM; *clunk* resonates like a church bell.
+
+   * **Receipt flash:** “LIQUIDITY ONLINE (ALLEGED).”
+5. **MCU** Luda hands-to-sky “walkthrough” to… nobody.
+
+   * **Stadium SFX** sneaks in for 1 beat; **organ sting** undercuts it.
+6. **Phone Vert** Crystal ring-light reflection in Bow’s sweat.
+
+   * **Chat bubbles** slide in: “is this TikTok?” “it’s meta TikTok.”
+7. **Cutaway** Peaches eating stolen hotdog, nodding *amen*.
+
+### Micro-Animation beats
+
+* **Duct Tape Elastic:** Title pops on with “tape spring-back” easing.
+* **ATM Blink:** Green LED blinks in sync with hi-hats when Ja touches it.
+
+### Image Prompt Pack (stills)
+
+* **Hero still:** “County fair midway at dusk, trailer booth made of folding table + trash bags, VHS bloom, peach neon accents, comedy documentary look, overexposed highlights, tiny finance ticker in lower frame.”
+* **Character stills:**
+
+  * Moses + laminated Waffle House “permit,” clipboard, smug.
+  * Diamond with glitter wristbands, bokeh Ferris wheel.
+  * Ja with beat-up ATM on dolly, receipts peeking like tongues.
+
+---
+
+## SCENE 3 — “THE GLIZZY AIRDROP”
+
+**Where:** Same booth; hotdog contest chaos.
+
+### Shot List (:35)
+
+1. **WS** Five contestants, three hot plates, tragic extension cord; **FX**: flicker gag on lights.
+2. **MCU** Bow dead center, FartWATER hoodie; steam + sweat halo.
+
+   * **Lower-third:** “BOW — CHIEF SNACK OFFICER • RISK APPETITE: HIGH.”
+3. **CU** stopwatch app (thumb trembles). Start sound **click** becomes downbeat.
+4. **Montage (4 quick cuts):** mustard spray / bun disintegrate / child's “EIGHTY PERCENT!” chant / Crystal’s ring light in someone’s eyeball.
+5. **WS** Quiet NASCAR guy raises last dog triumphantly; **confetti = 3 napkins.**
+6. **MCU TOPSHOT** Ja tossing a FartWATER bottle bouquet; **SFX:** airy whoosh + dull thud off stanchion.
+7. **Reaction** Peaches catching the hiss like champagne.
+
+### Motion + GFX
+
+* **Counter Overlay:** “GLIZZY P&L” (dogs eaten ↑, dignity ↓).
+* **Receipt rain (light):** “CONTEST IS EDUTAINMENT. VALUE NOT GUARANTEED.”
+
+### Image Prompt Pack
+
+* “Hotdog eating contest, county fair, chaotic energy, greasy highlights, 2004 miniDV feel, motion blur, big ring light glare; comedic finance lower-third.”
+
+---
+
+## SCENE 4 — “BIRTH OF FARTWATER GRAVY™”
+
+**Where:** Aftermath by the booth table.
+
+### Shot List (:30)
+
+1. **CU MACRO** pot of hotdog water shimmering; Bow raises it like holy grail.
+
+   * **Lower-third:** “FARTWATER GRAVY™ — HYDRATION HAS NEVER BEEN THIS THICK.”
+2. **Insert** FartWATER can cracked into the pot; violent foam bloom.
+3. **MCU** Moses whisper-nods: “Utility in real time.”
+4. **CU** Diamond Sharpies a cardboard logo; glitter flakes fall like dandruff confetti.
+5. **WS** Peaches ladles Dixie samples into hands that shouldn’t take them.
+6. **CU** Busta over the pot, eyes wide: “Viscosity equals throughput!” **table slam** → **SPLASH FREEZE FRAME**.
+
+### Micro-Animation
+
+* **Freeze-frame card:** Oil-paint pass on splash; bold caption *HYDRATION HAS NEVER BEEN THIS THICK*.
+* **Heat shimmer:** subtle displacement effect above pot.
+
+### Image Prompt Pack
+
+* “Steam pot, carnival table, cheap aluminum sheen, syrupy liquid swirl, VHS halation, glitter flecks, comedic infographics hovering.”
+
+---
+
+## SCENE 11 — “DENNY’S, CLOSED FOR COMEDY”
+
+**Where:** Midnight fluorescent exile.
+
+### Shot List (:20)
+
+1. **WS** neon Denny’s sign humming like a bug zapper halo.
+2. **MCU** Luda requesting “headliner booth,” host pointing outside.
+3. **Phone Vert** Will invites staff to “hydrate + repent,” Soulja claims he invented 24 hours.
+4. **WS** group backing out as automatic doors stutter.
+
+### Motion + GFX
+
+* **Door-close wipe** → cut to curb slow-mo “victory in exile.”
+* **Sticker bug:** “COLLAB DENIED (DINER).”
+
+### Image Prompts
+
+* “Fluorescent diner lobby at midnight, bewildered staff, reality-TV lighting, camera flash glare.”
+
+---
+
+## SCENE 12 — “WAFFLE HOUSE: SYRUP & VIOLENCE”
+
+**Where:** 2:13 AM; chain snaps; potatoes fly.
+
+### Shot List (:35)
+
+1. **WS** kitchen pass, steam veil; cooks unfazed.
+2. **MCU** Moses hugging **FartLedger™** on chain; Peaches: “let me hold it.”
+3. **CU** chain tension → **metal ping** as it pops; ledger arcs between them like a broken promise.
+4. **WS** Busta spins with hashbrowns; **potato shrapnel** in beautiful slow-mo.
+5. **MCU** Ja quietly guiding ATM out the back like family heirloom.
+6. **Insert** waitress refilling coffee to the brim: *drip, drip, mercy.*
+
+### Micro-Animation
+
+* **Potato bullet time:** 12-frame ramp with overcranked fryer hiss layered.
+* **“PERMIT: RECEIPT” stamp** slams the frame when the chain pops.
+
+### Image Prompts
+
+* “Waffle House chaos tableau, flying hashbrowns frozen midair, sodium lights, greasy lens, comedic solemnity.”
+
+---
+
+## SCENE 13 — “IHOP COUNCIL OF ELDERS”
+
+**Where:** Blue vinyl, syrup caddies, coupon sacrament.
+
+### Shot List (:40)
+
+1. **WS** booth: Nelly lays coupon-tarot, Moses erects shoebox “treasury skyline.”
+2. **MCU** Bow baptizes a short stack in FartWATER Gravy™—syrup + gravy marbling.
+3. **CU** waitress *comp-slaps* one short stack like a mercy law.
+4. **MCU** Will holding hands; Soulja counting “pancake vibes.”
+5. **Insert** coupon close-ups; lamination shimmer.
+
+### Motion + GFX
+
+* **Coupon Halo** behind Nelly head as he intones: “Coupons are mercy the government forgot.”
+* **Subtle push-in** + organ pad.
+
+### Image Prompts
+
+* “IHOP booth, sacred coupon ritual, neon blue booths, syrup bottle bokeh, finance-church mood, laminated documents glow.”
+
+---
+
+## SCENE 14–15 — “VAN-ISH / TOW THEOLOGY”
+
+**Where:** Parking lot, sirens, tow operator, pathos interrupted.
+
+### Shot List (:45)
+
+1. **WS** van won’t start—roof bottle nods no.
+2. **MCU** key click-click; dashboard icon “CHECK LIQUIDITY.”
+3. **WS** tow truck hooks ATM first (hilarious and right).
+4. **MCU** Luda slow-walks beside, towel like funeral sash.
+5. **Insert** Ja pours out a little FartWATER (libation).
+6. **WS** red taillights drag sin into darkness… **golf cart slices through frame** and steals the drama.
+
+### Motion + GFX
+
+* **Obit lower-third** for the ATM as it rolls away: “STATUS: UNDEAD • WILL RETURN NEXT EP.”
+* **Receipt wipe** to sodium confessional circle.
+
+### Image Prompts
+
+* “Tow truck at fairgrounds night, ATM strapped, red taillights through dust, half-sincere, half-farcical.”
+
+---
+
+# SOCIAL & KEY ART DELIVERABLES (ATL)
+
+* **Per scene:** 3 stills (1 hero, 2 BTS), 1 motion micro (:06–:12), 1 GIF loop (receipt confetti, gravy swirl, chain pop).
+* **Aspect ratios:** 9:16 vertical master; square 1:1; 16:9 export.
+* **Loop design:** End on motion-hold + tiny camera shake + receipt tick.
+
+---
+
+## CHARACTER MICRO-ANIMS (ATL)
+
+* **Nelly — Coupon Halo:** Coupons orbit like saints; one flips to “DECLINED,” halo flickers, he smiles harder.
+* **Luda — Ego Jumbotron:** He raises hands → background swaps to fake stadium crowd for 5 frames → smash back to empty lot.
+* **Bow — Flavor Equity:** Gravy drips form a $ sign; it sags.
+* **Busta — Consensus Burst:** Blank pie chart fills to 100% as he screams; slices are just colors labeled “belief.”
+* **Ja — Conversion Attempt:** ATM slot glows; receipt prints “TRY LATER (NEVER)”; he nods serenely.
+* **Moses — Lamination Porn:** Coupon slides into laminator; steam swirl; stamp *APPROVED* (by who?).
+
+---
+
+## SOUND KIT (ATL)
+
+* **Stingers:** printer chatter hats, stapler thunks, organ sneers, fryer pops, receipt tear.
+* **Beds:** carnival calliope detuned; 2003 club synths; “CNBC at 2am” hum.
+* **UI SFX:** mini ATM beep when captions land; cash drawer ding for each cut.
+
+---
+
+## PROP & GRAPHICS CHECKLIST (ATL)
+
+* Laminated Waffle House “permit”; shoelace “wristbands”; Glitter “Refund Assurance” stickers; FartWATER Gravy™ label (cardboard + Sharpie); BTC ATM (beat up, chained); coupon stack (IHOP/WAFFLE).
+
+---
+
+## FILE NAMING & RENDER NOTES
+
+* **Stills:** `ATL_S1E1_ScXX_ShotYY_v1.jpg` (JPG, 4–6MB, grain on).
+* **Motion:** `ATL_S1E1_ScXX_MicroZZ_916_v1.mp4` (H.264, 12–15 Mbps, -3dB true peak).
+* **Alpha assets:** `GFX_ATL_Receipt_Tax_v1.png` (transparent).
+* **Color:** Deliver flat + LUT’d. Include `.cube` LUT “FRTWTR_ATL_VHS01”.
+
+---
+
+## PROMPT BANK (for stills or to seed animation)
+
+Use these as base text for image/animation generation:
+
+**General ATL Style Seed (prepend to all):**
+“Trash-doc reality TV still, 2004 DV cam vibe, VHS halation, carnival lighting, comedic finance lower-third, tiny ticker crawl, chaotic documentary composition, shallow DOF, motion blur, handheld energy.”
+
+**Scene Prompts**
+
+* **Midway Pitch:** “County fair midway dusk, folding table finance booth with duct-taped signs, Ferris wheel bokeh, Ja Rule with battered ATM on dolly, Diamond selling glitter wristbands, Moses holding laminated receipt, Peaches eating stolen hotdog, candid documentary shot.”
+* **Glizzy Airdrop:** “Hotdog eating contest, mustard spray freeze, Bow Wow center in FartWATER hoodie sweating, ring light glare, napkin confetti, vertical phone frame inside frame.”
+* **Gravy Birth:** “Steam pot on plastic table, FartWATER can pouring, foam eruption, Busta preaching over pot, cardboard logo *FARTWATER GRAVY™*, glitter specks in air.”
+* **Waffle House:** “2:13 AM diner kitchen chaos, chain snapping on ledger between Peaches and Moses, hashbrowns flying in slow motion, cooks unfazed, sodium-vapor glow.”
+* **IHOP Council:** “Blue vinyl booth, Nelly laying coupon-tarot, laminated papers arranged like skyline, syrup caddies gleaming, sacred comedy mood.”
+* **Tow Theology:** “Night lot, tow truck pulling ATM, Luda slow-walking with towel like pallbearer, red taillights streak, golf cart photobombs.”
+
+---
+
+## EPISODE-WIDE ANIMATION BUTTONS
+
+* **Open Bumper:** CRT scanline + ATM bug prints **THIS IS FINANCE**; coupon iris to first shot.
+* **Act Bumpers:** “PERMIT CHECK” stamp shakes the frame; receipt rip transitions.
+* **End Card:** Arch postcard motif foreshadowing St. Louis; single damp confetti lands on lens.
+
+---
+
+## WHAT THIS GIVES US RIGHT NOW
+
+* A **complete ATL visual/motion blueprint**: shotables, overlays, micro-anims, and **prompt banks** to generate real-time images or seed animation.
+* Parity with STL: next pass we can drop in **final lower-third text files** and the **receipt PNG pack** for both episodes so editors can just drag-n-drop.
+
+If you want, I’ll spin up the **receipt PNG pack text** (exact copy for “ADMISSION,” “TAX,” “SURCHARGE,” “TRY LATER (NEVER)”) and a **lower-third CSV** for ATL so design can batch-render every chyron in one go.

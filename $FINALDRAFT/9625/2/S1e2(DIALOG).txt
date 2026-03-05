@@ -1,0 +1,275 @@
+Awesome—here are the **dialogue pages** for the two big tentpole sequences, written like ATL: **tight beats, timed moments, camera moves, lower-thirds gags, and on-screen graphics**. EVERYTHING is **$FRTWTR** and **THIS IS FINANCE**.
+
+---
+
+# SEQUENCE A — “THE HALFTIME THAT SHOULDN’T EXIST” (Busch Stadium Liquidity Interlude)
+
+**Runtime target:** :45 seconds of sanctioned chaos during a mound visit (plus pre/post pickups).
+**Look:** Janky ESPN meets VH1 confessionals; organ stabs bully the mix; the **BTC ATM** is a cursed co-star.
+**Audio bed:** Stadium organ, printer chatter hi-hats, “crowd murmur (disappointed).”
+
+---
+
+### 00:00–00:05 — **Establish & Breach**
+
+* **CAM A (70–200mm broadcast zoom):** Tight on **Pitcher + Mound Conference**; the ump breaks them up.
+* **CAM B (Steadicam from foul line):** Finds **Moses** at the warning track with a clipboard and foam “ALL-ACCESS (MUSEUM)” pass.
+* **LOWER-THIRD (Moses):** “MOSES GUNNER — Chief Compliance (Self-Certified) • Slippage Forecast: 80%”
+* **MOSES (to walkie, whisper-fast):** “Window open—forty-five seconds—deliver value—this is curriculum!”
+* **SFX:** PVC whistle chirp from off-camera (Nelly).
+
+### 00:06–00:10 — **Stage Invasion**
+
+* **CAM C (Gimbal, 24mm):** **Nelly, Luda, Ja, Busta, Bow, Will, Soulja** jog along the warning track like a Little League parade.
+* **Diamond** hands ushers **Refund Assurance** stickers mid-run.
+* **Peaches** unfurls a velvet rope around nothing.
+* **LOWER-THIRD (Diamond):** “DIAMOND — Monetization Director • Refunds Not Included”
+* **ORGANIST (over PA):** a sarcastic glissando.
+
+### 00:11–00:16 — **Nelly Pivots to Pulpit**
+
+* **CAM A (on-field handheld):** Lands on **Nelly** with the **PEG** ranger hat and a portable mic.
+* **NELLY (barking):** “ST. LOUIS! Hydrate your holdings, five-dollar wisdom—”
+* **CUTAWAY CAM (crowd):** Section 138, skeptically eating nachos.
+* **LOWER-THIRD (Nelly):** “NELLY — $5 Tour Tycoon • Coupon-Backed Treasury (CBT) Founder”
+
+### 00:17–00:22 — **Ja’s Conversion Attempt**
+
+* **CAM D (Macro insert):** **Ja** jams **$200** into the **BTC ATM** strapped to a dolly.
+* **SFX:** Printer chatter crescendos.
+* **ON-SCREEN (receipt pop-ups, three beats):**
+
+  1. “CONCESSION TAX: 18% + **80% SLIPPAGE**”
+  2. “PEANUTS = COMMODITY (ILLiq)”
+  3. “YIELD: RAIN DELAY”
+* **JA (hands raised):** “Redeem our doubters!”
+* **LOWER-THIRD (Ja):** “JA RULE — Redemption Architect • Conversion Rate: Pending”
+
+### 00:23–00:28 — **Busta & Luda vs. The Organ**
+
+* **CAM B (Steadicam push):** **BUSTA** slaps a foam pie chart (blank).
+* **BUSTA (diaphragm):** “CONSENSUS!!”
+* **ORGAN (petty):** *Da-da-da-DAAA-DAAA* (the charge riff).
+* **CAM A:** **Luda** raises bar towels like T-shirt cannons.
+* **LUDA (to 40,000 ghosts):** “Y’all smell that? That’s headliner equity!”
+* **LOWER-THIRD (Luda):** “LUDACRIS — Self-Proclaimed Headliner • Jumbotron Entitlement Fund”
+
+### 00:29–00:34 — **Will & Soulja Hijack the Fan-Cam**
+
+* **JUMBOTRON CUT-IN:** **Will & Soulja** vertical stream piped to the big board for 1.5 seconds before ops kill it.
+* **WILL:** “First rappers to perform during a mound visit!”
+* **SOULJA:** “Historic!”
+* **OPS TECH (off):** “Kill feed—kill feed.”
+* **LOWER-THIRD (Will & Soulja):** “WILL & SOULJA — First To Everything • Latency: Unbearable”
+
+### 00:35–00:39 — **Bow’s Sponsorship Boo**
+
+* **CAM C (30mm):** **Bow** hoists a ravioli tray like Simba.
+* **BOW:** “Official **$FRTWTR x Stadium Ravioli**—”
+* **SECTION 138:** unified boo; one perfect peanut arcs past frame.
+* **LOWER-THIRD (Bow):** “BOW WOW — Chief Snack Officer • Collab Status: Imaginary”
+
+### 00:40–00:45 — **Security Curtain / Receipt Storm**
+
+* **WIDE (broadcast cam):** Two security guards approach politely mortified.
+* **MOSES (to guard, soothing):** “This is education. We’re in a teachable moment.”
+* **GUARD:** “Moment’s over.”
+* **SFX:** **Organ** swells heroic; **ATM** sputters a blizzard of receipts, carried by a dugout breeze into the first rows like cursed confetti.
+* **SUPER (full-screen bumper):** **THIS IS FINANCE.**
+* **HARD CUT TO BLACK.**
+
+---
+
+### PICKUPS (post-interlude confessionals)
+
+* **Luda (locker tunnel, keyed):** “I headlined the seventh-inning stretch. There were… thousands—in my memory.”
+* **Nelly (by Gatorade cooler):** “Grip slipped—liquidity problem.”
+* **Moses (to camera, calm):** “We complied with the available seconds.”
+* **Busta (sweaty, serene):** “Consensus collided with organ—organ louder.”
+* **Ja (palming ATM):** “Silence is bullish.”
+* **Diamond (counting singles):** “Refund Assurance moved units. Assurance of what? Glitter.”
+
+---
+
+### GRAPHICS KIT (overlay during sequence)
+
+* **Ticker crawl:** “$FRTWTR +420.69% • APR = Always Pay Rule • CONCESSION TAX APPLIES • Slippage Index: 80%”
+* **Bug:** Mini-ATM icon animates each time a receipt fact lands.
+* **Crowd label pop-ups:** “SECTION 138 — Mood: Illiquid.”
+
+---
+
+# SEQUENCE B — “THE EAST STL POP-UP” (Geyser Park Gambit)
+
+**Runtime target:** 3–4 minutes in episode, built from modular beats below.
+**Look:** Sodium-vapor grime + phone flash glare + grill smoke; ASMR of generator + distant pops.
+**Audio bed:** Low 808s, printer chatter hats, grill sizzle, intermittent fireworks/gunshots (ambiguous).
+
+---
+
+### 00:00–00:20 — **Pre-Show: Guerrilla Load-In**
+
+* **WIDE (drone low pass):** Under-lit lot; two milk crates and a rug = **“stage.”**
+
+* **CAM A (handheld):** **Moses** taping a **Run of Show** to the grill with blue painters tape.
+
+* **LOWER-THIRD (Moses):** “MOSES — Chief Compliance (Mobile Campus) • Schedule Backed By Receipts”
+
+* **MOSES (to camera):** “Five-minute sets. Zero encores. Everything laminated.”
+
+* **INSERT:** He laminates a coupon; the plastic warps in the heat—he nods, satisfied.
+
+* **CAM B (phone vertical, Crystal):** **Diamond** counting a wad; **Peaches** lines a duffel with VIP wristbands (yarn).
+
+* **DIAMOND:** “Cash only. Glitter is a gratuity.”
+
+* **PEACHES:** “VIP includes proximity and my hot breath.”
+
+* **LOWER-THIRDS:**
+
+  * “DIAMOND — Monetization Director • Refund Assurance (™)”
+  * “PEACHES — VP of Rope • Security = Vibes”
+
+* **CAM C (gimbal):** **Ja** chains the **BTC ATM** to a park bench.
+
+* **JA (to ATM):** “Don’t run from us when faith gets loud.”
+
+* **BUSTA** tapes **CONSENSUS** to a trash can.
+
+* **BUSTA (mic-check scream):** “CONSENSUS!”
+
+### 00:21–00:50 — **Order of “Headliners” Argument**
+
+* **CAM A (two-shot):** **Nelly & Luda** squared off by the rug.
+* **NELLY:** “This my city. I open and close if I feel like it.”
+* **LUDA:** “Headliners don’t open or close—we *hover above the schedule.*”
+* **Will & Soulja** slide in:
+
+  * **WILL:** “History usually happens early.”
+  * **SOULJA:** “We volunteer as early.”
+* **MOSES (reading off receipt):** “Actual order: Will/Soulja, Bow, Busta, Ja, Nelly, Luda—”
+* **LUDA:** “See? I’m last. That’s a closer. Which is headliner but dramatic.”
+
+### 00:51–01:40 — **The Set Begins (Messy But Loud)**
+
+* **CAM B (Crystal, shaky vertical):** **Will & Soulja** holler into a Bluetooth karaoke mic.
+
+  * **WILL:** “First rappers to headline a parking lot!”
+  * **SOULJA:** “Historic!”
+  * **CROWD (20 ppl):** Mild cheer; one guy says “turn it down” politely.
+
+* **CAM A (handheld):** **Bow** rolls up with a **“Ravioli Flight”** in sample cups.
+
+  * **BOW:** “Taste the liquidity ladder.”
+  * **GUY IN CARHARTT:** “Why cold?”
+  * **BOW:** “Because markets correct.” (He winks, grimacing at his own bite.)
+
+* **CAM C (gimbal):** **Busta** storms the milk crates.
+
+  * **BUSTA:** “CONSENSUS!”
+  * **On-screen caption (kinetic type):** “CONSENSUS CONSENSUS CONSENSUS”
+  * **He points at the sky:** “See the yield? It’s **night-shaped!**”
+  * **Peaches** drapes velvet rope two feet from his ankles like a moat.
+
+* **CUTAWAY:** **Nelly** preaching like a coupon televangelist.
+
+  * **NELLY:** “Gateway stays open **24/7**! Redeem your breakfast at **dinner**!”
+  * **LOWER-THIRD (Nelly):** “Nelly — Coupon-Backed Treasury (IHOP Denied)”
+
+### 01:41–02:15 — **The Omen / Geyser Sync**
+
+* **SFX (distant river):** **FOOMP**—the **Gateway Geyser** kicks up in the distance.
+* **CAM D (long lens):** Jet of water arcs behind the set like a miracle graph.
+* **MOSES (awed whisper):** “Correlation detected.”
+* **ATM (insert):** The receipt printer **begins to snow** slow white strips.
+* **ON-SCREEN RECEIPTS (pop-in, floating):**
+
+  * “EAST STL SURCHARGE APPLIED”
+  * “APR TOO HIGH (CHECK WEATHER)”
+  * “RISK PREMIUM: NONZERO”
+* **CROWD:** Ooohs at the **geys—** then registers the **pops**.
+
+### 02:16–02:45 — **Pops / Ambiguity / Breath Holds**
+
+* **SFX:** Three **pops** from somewhere (ambiguous—fireworks? gunshots?).
+* **CAM A:** **Peaches** freezes, then whispers to Diamond: “Is that consensus or exit liquidity?”
+* **DIAMOND (calculating):** “Either way, VIP is closed.” (She zips the duffel.)
+* **CAM B (Crystal, vertical):** **Comments** explode: *“FIREWORKS?” “LEAVE.” “GIRL RUN.”*
+* **BUSTA (arms wide):** “CONSEN—” (thinks better) “Con… caution.”
+* **MOSES (to group):** “Orderly wind-down! Save assets and receipts!”
+
+### 02:46–03:20 — **Evacuation Elegy**
+
+* **CAM C (gimbal retreat):** **Crowd** moves as a single wave—quiet, practiced.
+* **Will & Soulja** dive under a folding table.
+
+  * **SOULJA (to camera, whisper):** “First rappers to survive a pop-up in East STL.”
+  * **WILL:** “Historic.”
+* **NELLY** keeps the preacher voice but softer. “Move with faith and knees bent.”
+* **JA** yanks the chain; **Moses** grabs the **ATM**; they three-legged-race the dolly to the **FartWATER Van.**
+* **Peaches** folds the rope like a flag. **Diamond** clutches the cash. **Crystal** keeps filming everything, breath loud.
+
+### 03:21–03:55 — **The Van Won’t Start**
+
+* **CAM A (inside van, dash cam):** Key **click-click-click**.
+* **LUDA (circling outside):** “Does headliner insurance cover running? Someone answer me legally.”
+* **LOCAL (steps in, jumper cables on shoulder):** “Forty cash.”
+* **NELLY (offers coupons):** “What about—”
+* **LOCAL:** “Forty cash.”
+* **DIAMOND** peels two twenties without blinking; handoff like a hostage exchange.
+* **BOW (sheepish):** “Plus ravioli?”
+* **LOCAL:** “Absolutely not.”
+* **LOWER-THIRD (Local):** “LOCAL — Liquidity Provider • Terms: Simple, Cash”
+
+### 03:56–04:20 — **Exit / Receipt Epilogue**
+
+* **ENGINE:** Van coughs alive.
+* **CAM B (tailgate wide):** They pile in; **ATM** wedged between **Ja** and **Moses** like a baby.
+* **BUSTA** jogs, last one in: “CONSEN—” (slams the door) “—sus.”
+* **WIDE (static):** Van peels; one receipt flaps from the sliding door like a surrender flag.
+* **ON-SCREEN (final receipt crawl):** “RISK PREMIUM: 80% SLIPPAGE • SEE YOU NEVER (OR SOON)”
+* **MUSIC:** Printer hats + low organ tail + distant Geyser hiss.
+
+---
+
+### POP-UP CONFESSIONAL PICKUPS
+
+* **Nelly (shotgun mic rattling):** “Gateway open 24/7—tonight we saw the after-hours fee.”
+* **Luda (sweat halo):** “That rug? Stadium-level intimacy.”
+* **Moses (hugging ATM):** “If we don’t die, we’re on schedule.”
+* **Ja (stroking chain):** “Fear converts at better-than-market rates.”
+* **Busta (whisper-scream):** “Consensus achieved—through evacuation velocity.”
+* **Bow (sincere):** “I tasted humility. It was colder than ravioli.”
+* **Will & Soulja (under-dash light):** “First rappers to **learn** cardio.”
+* **Diamond (counting, content):** “Cash has a calming mouthfeel.”
+* **Peaches (clutching rope):** “Perimeter defended. My perimeter.”
+* **Crystal (still live):** “Cone boyfriend says ‘stay humble.’”
+
+---
+
+### GRAPHICS KIT (overlay during pop-up)
+
+* **Ticker crawl:** “$FRTWTR HOLD • APR = Always Pay Rule • SURCHARGE ACTIVE • CASH > COUPONS (TEMPORARILY)”
+* **Safety chyrons (tongue-in-cheek):** “This is Edutainment. Not Evacuation Advice.”
+* **Bug:** Animated **velvet rope** icon closes when VIP sales end.
+
+---
+
+## OPTIONAL BONUS MINI-PAGE — “RUNNING ORDER MUTINY” (pre-halftime, 0:35)
+
+**INT. Stadium service corridor — night**
+
+* **CAM (locked-off 35mm):** Whiteboard: “Liquidity Interlude.”
+* **Luda:** “Headliner or arbitration.”
+* **Moses:** “We have forty-five seconds. That’s not a headliner; that’s a weather alert.”
+* **Nelly:** “City loves me, I pitch the concept.”
+* **Bow:** “And I announce ravioli.”
+* **Busta:** “And I scream consensus.”
+* **Ja:** “I will convert the doubters.”
+* **Will & Soulja (together):** “Historically.”
+* **Security (pokes head in):** “Whatever y’all doing—do it **quieter**.”
+* **ATM (from dolly, faint print):** *“MUTE BUTTON: NOT FOUND.”*
+
+---
+
+If you want, I can immediately draft **camera boards** (shot lists with lensing & positions) and **graphics export notes** (exact lower-third text files, receipt overlays, ticker JSON) so your post team can plug-and-play.
